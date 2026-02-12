@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Punith Kumar B
+# Punith Kumar B
 
 Welcome to my GitHub portfolio! This repository showcases my education, technical skills, internships, and projects in **Software Development, Data Analytics, and Machine Learning**.
 
@@ -106,19 +106,12 @@ AI-powered web application designed for farmers.
 
 ---
 
-## 🌐 Languages Known
-
-* Kannada
-* Telugu
-* English
-* Tamil
-* Hindi
 
 ---
 
 ## 📫 Contact Me
 
-* 📧 Email: [punithkumarb16@gmail.com](mailto:punithkumarb16@gmail.com)
+* 📧 Email: [punithkumarb0716@gmail.com](mailto:punithkumarb0716@gmail.com)
 * 💼 LinkedIn: https://linkedin.com/in/punith-kumar-b-33111534b
 * 💻 GitHub: https://github.com/punithkumarb16-svg
 
